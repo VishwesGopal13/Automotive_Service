@@ -1,0 +1,101 @@
+scid,name,location_human,latitude,longitude,technician_available
+SC0001,Los Angeles Auto Service Center 1,"Los Angeles, North America",33.881033,-118.324771,yes
+SC0002,Chicago Auto Service Center 2,"Chicago, North America",41.963315,-87.566125,yes
+SC0003,Seattle Auto Service Center 3,"Seattle, North America",47.578064,-122.501542,yes
+SC0004,Houston Auto Service Center 4,"Houston, North America",29.76233,-95.540418,yes
+SC0005,San Francisco Auto Service Center 5,"San Francisco, North America",37.745898,-122.437703,no
+SC0006,New York Auto Service Center 6,"New York, North America",40.806064,-74.128645,no
+SC0007,Toronto Auto Service Center 7,"Toronto, North America",43.573154,-79.48579,no
+SC0008,Los Angeles Auto Service Center 8,"Los Angeles, North America",33.905442,-118.389027,no
+SC0009,Seattle Auto Service Center 9,"Seattle, North America",47.521343,-122.496622,no
+SC0010,San Francisco Auto Service Center 10,"San Francisco, North America",37.639702,-122.267221,yes
+SC0011,San Francisco Auto Service Center 11,"San Francisco, North America",37.70037,-122.373043,no
+SC0012,Seattle Auto Service Center 12,"Seattle, North America",47.495313,-122.487215,yes
+SC0013,Phoenix Auto Service Center 13,"Phoenix, North America",33.623255,-111.945958,yes
+SC0014,Vancouver Auto Service Center 14,"Vancouver, North America",49.20269,-123.071805,no
+SC0015,Chicago Auto Service Center 15,"Chicago, North America",41.831318,-87.734482,no
+SC0016,Los Angeles Auto Service Center 16,"Los Angeles, North America",34.091526,-118.362209,yes
+SC0017,Chicago Auto Service Center 17,"Chicago, North America",41.8645,-87.712702,yes
+SC0018,Toronto Auto Service Center 18,"Toronto, North America",43.77675,-79.283741,yes
+SC0019,New York Auto Service Center 19,"New York, North America",40.822726,-74.041616,yes
+SC0020,Houston Auto Service Center 20,"Houston, North America",29.909278,-95.345591,no
+SC0021,Houston Auto Service Center 21,"Houston, North America",29.816414,-95.40741,no
+SC0022,Chicago Auto Service Center 22,"Chicago, North America",41.793372,-87.721105,no
+SC0023,Seattle Auto Service Center 23,"Seattle, North America",47.58041,-122.301998,no
+SC0024,Houston Auto Service Center 24,"Houston, North America",29.939616,-95.500131,no
+SC0025,Los Angeles Auto Service Center 25,"Los Angeles, North America",34.144374,-118.113573,yes
+SC0026,Chicago Auto Service Center 26,"Chicago, North America",41.983354,-87.65785,yes
+SC0027,Vancouver Auto Service Center 27,"Vancouver, North America",49.24004,-122.941918,no
+SC0028,San Francisco Auto Service Center 28,"San Francisco, North America",37.904911,-122.595443,yes
+SC0029,San Francisco Auto Service Center 29,"San Francisco, North America",37.865306,-122.322608,no
+SC0030,Los Angeles Auto Service Center 30,"Los Angeles, North America",33.977786,-118.366886,yes
+SC0031,Phoenix Auto Service Center 31,"Phoenix, North America",33.61845,-111.979599,yes
+SC0032,Phoenix Auto Service Center 32,"Phoenix, North America",33.571524,-112.071239,yes
+SC0033,Chicago Auto Service Center 33,"Chicago, North America",41.832664,-87.751764,yes
+SC0034,Seattle Auto Service Center 34,"Seattle, North America",47.542833,-122.505262,no
+SC0035,Phoenix Auto Service Center 35,"Phoenix, North America",33.354509,-112.16738,yes
+SC0036,Los Angeles Auto Service Center 36,"Los Angeles, North America",34.13577,-118.129818,yes
+SC0037,Chicago Auto Service Center 37,"Chicago, North America",41.935668,-87.468773,yes
+SC0038,Phoenix Auto Service Center 38,"Phoenix, North America",33.458373,-112.035588,yes
+SC0039,San Francisco Auto Service Center 39,"San Francisco, North America",37.866887,-122.350979,no
+SC0040,Vancouver Auto Service Center 40,"Vancouver, North America",49.461132,-123.06669,no
+SC0041,San Francisco Auto Service Center 41,"San Francisco, North America",37.757418,-122.510245,yes
+SC0042,Toronto Auto Service Center 42,"Toronto, North America",43.4806,-79.363769,yes
+SC0043,New York Auto Service Center 43,"New York, North America",40.558203,-73.958756,yes
+SC0044,Los Angeles Auto Service Center 44,"Los Angeles, North America",34.198297,-118.114102,yes
+SC0045,San Francisco Auto Service Center 45,"San Francisco, North America",37.680487,-122.358507,yes
+SC0046,San Francisco Auto Service Center 46,"San Francisco, North America",37.6424,-122.262458,no
+SC0047,Houston Auto Service Center 47,"Houston, North America",29.862966,-95.25899,yes
+SC0048,Los Angeles Auto Service Center 48,"Los Angeles, North America",33.90695,-118.268546,no
+SC0049,Vancouver Auto Service Center 49,"Vancouver, North America",49.270817,-123.03815,yes
+SC0050,New York Auto Service Center 50,"New York, North America",40.677709,-74.063909,yes
+SC0051,Houston Auto Service Center 51,"Houston, North America",29.649261,-95.356724,yes
+SC0052,Vancouver Auto Service Center 52,"Vancouver, North America",49.168642,-123.134167,yes
+SC0053,Dallas Auto Service Center 53,"Dallas, North America",32.887699,-96.668724,yes
+SC0054,New York Auto Service Center 54,"New York, North America",40.767627,-73.991374,yes
+SC0055,Los Angeles Auto Service Center 55,"Los Angeles, North America",34.205846,-118.118044,yes
+SC0056,Vancouver Auto Service Center 56,"Vancouver, North America",49.277526,-123.223854,no
+SC0057,New York Auto Service Center 57,"New York, North America",40.591949,-74.185403,no
+SC0058,Phoenix Auto Service Center 58,"Phoenix, North America",33.6021,-111.971251,no
+SC0059,Vancouver Auto Service Center 59,"Vancouver, North America",49.353544,-123.037635,no
+SC0060,Chicago Auto Service Center 60,"Chicago, North America",41.766351,-87.731529,yes
+SC0061,Seattle Auto Service Center 61,"Seattle, North America",47.69115,-122.490313,no
+SC0062,New York Auto Service Center 62,"New York, North America",40.550689,-74.014364,yes
+SC0063,New York Auto Service Center 63,"New York, North America",40.878846,-74.157311,yes
+SC0064,Los Angeles Auto Service Center 64,"Los Angeles, North America",34.086447,-118.18056,yes
+SC0065,Vancouver Auto Service Center 65,"Vancouver, North America",49.145722,-122.980056,yes
+SC0066,Seattle Auto Service Center 66,"Seattle, North America",47.640261,-122.28908,no
+SC0067,Seattle Auto Service Center 67,"Seattle, North America",47.629705,-122.398273,no
+SC0068,Houston Auto Service Center 68,"Houston, North America",29.821563,-95.436761,no
+SC0069,Vancouver Auto Service Center 69,"Vancouver, North America",49.149683,-123.068267,no
+SC0070,Toronto Auto Service Center 70,"Toronto, North America",43.807801,-79.226179,yes
+SC0071,Dallas Auto Service Center 71,"Dallas, North America",32.820361,-96.7743,yes
+SC0072,Los Angeles Auto Service Center 72,"Los Angeles, North America",34.065762,-118.241579,yes
+SC0073,Toronto Auto Service Center 73,"Toronto, North America",43.790448,-79.246526,no
+SC0074,Phoenix Auto Service Center 74,"Phoenix, North America",33.325066,-111.953732,no
+SC0075,Seattle Auto Service Center 75,"Seattle, North America",47.780562,-122.221433,yes
+SC0076,San Francisco Auto Service Center 76,"San Francisco, North America",37.702604,-122.360521,yes
+SC0077,Phoenix Auto Service Center 77,"Phoenix, North America",33.309816,-112.215609,yes
+SC0078,Phoenix Auto Service Center 78,"Phoenix, North America",33.369754,-112.178278,no
+SC0079,Houston Auto Service Center 79,"Houston, North America",29.827967,-95.242624,no
+SC0080,Phoenix Auto Service Center 80,"Phoenix, North America",33.594467,-111.949278,yes
+SC0081,Vancouver Auto Service Center 81,"Vancouver, North America",49.401384,-123.284993,no
+SC0082,Chicago Auto Service Center 82,"Chicago, North America",41.92751,-87.715582,no
+SC0083,San Francisco Auto Service Center 83,"San Francisco, North America",37.849014,-122.397452,yes
+SC0084,Los Angeles Auto Service Center 84,"Los Angeles, North America",34.212579,-118.174864,yes
+SC0085,San Francisco Auto Service Center 85,"San Francisco, North America",37.607703,-122.466529,yes
+SC0086,Vancouver Auto Service Center 86,"Vancouver, North America",49.148446,-123.189796,yes
+SC0087,Toronto Auto Service Center 87,"Toronto, North America",43.548723,-79.47346,yes
+SC0088,Toronto Auto Service Center 88,"Toronto, North America",43.754143,-79.244773,no
+SC0089,Seattle Auto Service Center 89,"Seattle, North America",47.696102,-122.178672,yes
+SC0090,Chicago Auto Service Center 90,"Chicago, North America",42.049706,-87.51781,no
+SC0091,New York Auto Service Center 91,"New York, North America",40.597254,-73.853032,no
+SC0092,Houston Auto Service Center 92,"Houston, North America",29.676366,-95.266242,yes
+SC0093,Vancouver Auto Service Center 93,"Vancouver, North America",49.416814,-122.991477,yes
+SC0094,Houston Auto Service Center 94,"Houston, North America",29.874485,-95.384105,no
+SC0095,Houston Auto Service Center 95,"Houston, North America",29.660553,-95.31213,no
+SC0096,Toronto Auto Service Center 96,"Toronto, North America",43.573417,-79.538364,no
+SC0097,Toronto Auto Service Center 97,"Toronto, North America",43.704184,-79.419352,no
+SC0098,New York Auto Service Center 98,"New York, North America",40.574184,-73.836486,yes
+SC0099,Seattle Auto Service Center 99,"Seattle, North America",47.772879,-122.416617,yes
+SC0100,Seattle Auto Service Center 100,"Seattle, North America",47.582619,-122.249741,no
